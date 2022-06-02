@@ -1,12 +1,12 @@
 {
-    "token": "OTU1OTExOTQyMDI1OTIwNTQy.YjokXg.cuujVGEAu3ib2DaIL8bLBirUm8I",
-    "prefix": "!",
-    "sahip": "476836332023447552",
+    "token": "token",
+    "prefix": "prefix örn (!)",
+    "sahip": "ID",
     "gelistiriciler": [
-        "384683153769496586"
+        "ID"
     ],
-    "botid": "955911942025920542",
-    "sunucuid": "948989528847290478",
-    "yetkili": "955891463684755476",
-    "kategori": "956242512371146882"
+    "botid": "ID",
+    "sunucuid": "ID",
+    "yetkili": "ID",
+    "kategori": "ID"
 }
