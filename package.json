@@ -1,12 +1,12 @@
 {
   "name": "Kobat",
   "version": "3.0.0",
-  "description": "Egehanss",
+  "description": "caanyak",
   "main": "bot.js",
   "scripts": {
-    "test": "node bot.js"
+    "start": "node bot.js"
   },
-  "author": "Egehanss",
+  "author": "caanyak",
   "license": "MIT",
   "dependencies": {
     "@discordjs/rest": "^0.3.0",
